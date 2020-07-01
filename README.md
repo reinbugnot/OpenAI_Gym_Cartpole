@@ -6,5 +6,5 @@ NOTE:
 * To view my output, please run the code on ipython notebook
 
 PROBLEM DESCRIPTION: <br>
-* The goal is to balance the stick on top of a controllable box by moving the box left or right and by not bumping onto the edges of the screen <br>
+* The goal is to balance the stick on top of a controllable box by moving the box left or right and by not bumping onto the edges of the screen
 ![](https://i.ibb.co/q9QRyWT/cartpole-v1.jpg)
